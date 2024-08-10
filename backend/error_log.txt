@@ -1,0 +1,393 @@
+POST - /api/auth/login - ::ffff:127.0.0.1 - Mon Jul 22 2024 01:09:10 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/login - ::ffff:127.0.0.1 - Mon Jul 22 2024 01:18:27 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+GET - /ws - ::1 - Mon Jul 22 2024 13:27:47 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:113:7)
+POST - /api/auth/login - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:28:23 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/login - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:28:29 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/login - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:28:50 GMT+0530 (India Standard Time) - SyntaxError: Expected double-quoted property name in JSON at position 76
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+POST - /api/auth/login - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:28:51 GMT+0530 (India Standard Time) - SyntaxError: Expected double-quoted property name in JSON at position 76
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+POST - /api/auth/login - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:28:51 GMT+0530 (India Standard Time) - SyntaxError: Expected double-quoted property name in JSON at position 76
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+POST - /api/auth/login - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:29:18 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/login - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:29:19 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+GET - /ws - ::1 - Mon Jul 22 2024 13:32:04 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:113:7)
+POST - /api/auth/register - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:34:58 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/register - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:34:59 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/register - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:35:00 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/register - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:35:00 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/register - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:35:00 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/register - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:35:00 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/register - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:35:01 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/register - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:36:05 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+GET - /ws - ::1 - Mon Jul 22 2024 13:40:37 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:113:7)
+POST - /api/auth/register - ::ffff:127.0.0.1 - Mon Jul 22 2024 13:49:21 GMT+0530 (India Standard Time) - TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFile (node:fs:2295:5)
+    at Object.appendFile (node:fs:2407:6)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\index.js:23:8
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:137:5
+POST - /api/auth/login - ::ffff:127.0.0.1 - Mon Jul 22 2024 14:02:06 GMT+0530 (India Standard Time) - SyntaxError: Expected double-quoted property name in JSON at position 80
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+POST - /api/auth/register - ::ffff:127.0.0.1 - Fri Jul 26 2024 13:44:15 GMT+0530 (India Standard Time) - SyntaxError: Expected ',' or '}' after property value in JSON at position 25
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+POST - /api/auth/register - ::ffff:127.0.0.1 - Fri Jul 26 2024 13:44:17 GMT+0530 (India Standard Time) - SyntaxError: Expected ',' or '}' after property value in JSON at position 25
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+POST - /api/jobs/create - ::ffff:127.0.0.1 - Fri Jul 26 2024 14:25:09 GMT+0530 (India Standard Time) - SyntaxError: Unexpected token 'T', ...""remote": True,
+  "d"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+DELETE - /api/jobs/delete/66a3955bcce9d665ea4937 - ::ffff:127.0.0.1 - Fri Jul 26 2024 19:45:16 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "66a3955bcce9d665ea4937" (type string) at path "_id" for model "jobSchema"
+    at SchemaObjectId.cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schema\objectId.js:250:11)
+    at SchemaType.applySetters (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaType.castForQuery (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schemaType.js:1653:17)
+    at cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\cast.js:375:32)
+    at Query.cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:4857:12)
+    at Query._castConditions (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:2265:10)
+    at model.Query._findOneAndDelete (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:3492:8)
+    at model.Query.exec (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:4401:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\routes\jobs\index.js:40:10
+DELETE - /api/jobs/delete/66a3955bcce9d665ea4937 - ::ffff:127.0.0.1 - Fri Jul 26 2024 19:45:18 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "66a3955bcce9d665ea4937" (type string) at path "_id" for model "jobSchema"
+    at SchemaObjectId.cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schema\objectId.js:250:11)
+    at SchemaType.applySetters (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaType.castForQuery (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schemaType.js:1653:17)
+    at cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\cast.js:375:32)
+    at Query.cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:4857:12)
+    at Query._castConditions (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:2265:10)
+    at model.Query._findOneAndDelete (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:3492:8)
+    at model.Query.exec (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:4401:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\routes\jobs\index.js:40:10
+DELETE - /api/jobs/delete/66a3955bcce9d665ea4937 - ::ffff:127.0.0.1 - Fri Jul 26 2024 19:45:19 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "66a3955bcce9d665ea4937" (type string) at path "_id" for model "jobSchema"
+    at SchemaObjectId.cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schema\objectId.js:250:11)
+    at SchemaType.applySetters (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaType.castForQuery (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schemaType.js:1653:17)
+    at cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\cast.js:375:32)
+    at Query.cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:4857:12)
+    at Query._castConditions (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:2265:10)
+    at model.Query._findOneAndDelete (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:3492:8)
+    at model.Query.exec (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:4401:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\routes\jobs\index.js:40:10
+DELETE - /api/jobs/delete/66a3955bcce9d665ea4937 - ::ffff:127.0.0.1 - Fri Jul 26 2024 19:45:20 GMT+0530 (India Standard Time) - CastError: Cast to ObjectId failed for value "66a3955bcce9d665ea4937" (type string) at path "_id" for model "jobSchema"
+    at SchemaObjectId.cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schema\objectId.js:250:11)
+    at SchemaType.applySetters (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaType.castForQuery (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\schemaType.js:1653:17)
+    at cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\cast.js:375:32)
+    at Query.cast (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:4857:12)
+    at Query._castConditions (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:2265:10)
+    at model.Query._findOneAndDelete (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:3492:8)
+    at model.Query.exec (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\query.js:4401:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\routes\jobs\index.js:40:10
+GET - /api/jobs/get-all-job - ::ffff:127.0.0.1 - Fri Jul 26 2024 20:13:32 GMT+0530 (India Standard Time) - ReferenceError: logo is not defined
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\routes\jobs\index.js:91:48
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:47:12)
+GET - /api/jobs/get-all-job - ::ffff:127.0.0.1 - Fri Jul 26 2024 20:13:33 GMT+0530 (India Standard Time) - ReferenceError: logo is not defined
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\routes\jobs\index.js:91:48
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:47:12)
+GET - /api/jobs/get-all-job - ::ffff:127.0.0.1 - Fri Jul 26 2024 20:13:34 GMT+0530 (India Standard Time) - ReferenceError: logo is not defined
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\routes\jobs\index.js:91:48
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:47:12)
+POST - //api/auth/register - ::ffff:127.0.0.1 - Mon Jul 29 2024 13:42:39 GMT+0530 (India Standard Time) - SyntaxError: Expected property name or '}' in JSON at position 6
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+POST - /api/login - ::ffff:127.0.0.1 - Mon Jul 29 2024 14:40:27 GMT+0530 (India Standard Time) - SyntaxError: Expected property name or '}' in JSON at position 6
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+PATCH - /api/jobs/update/66a390d0685692acc9a17c23 - ::ffff:127.0.0.1 - Mon Jul 29 2024 21:09:43 GMT+0530 (India Standard Time) - MongooseError: Operation `userschemas.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+GET - /api/jobs/filter/javascript - ::ffff:127.0.0.1 - Thu Aug 01 2024 01:05:37 GMT+0530 (India Standard Time) - TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+    at JSON.stringify (<anonymous>)
+    at stringify (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\response.js:1159:12)
+    at ServerResponse.json (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\response.js:272:14)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\routes\jobs\index.js:136:21
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\express\lib\router\index.js:365:14)
+GET - /api/jobs/search/ei - ::ffff:127.0.0.1 - Thu Aug 01 2024 01:32:04 GMT+0530 (India Standard Time) - MongoServerError: $regex has to be a string
+    at Connection.sendCommand (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongodb\lib\cmap\connection.js:297:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Connection.command (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongodb\lib\cmap\connection.js:325:26)
+    at async Server.command (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongodb\lib\sdam\server.js:166:24)
+    at async FindOperation.execute (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongodb\lib\operations\find.js:33:16)
+    at async executeOperation (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongodb\lib\operations\execute_operation.js:136:16)
+    at async FindCursor._initialize (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongodb\lib\cursor\find_cursor.js:58:26)
+    at async [kInit] (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:463:27)
+    at async next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:520:13)
+    at async FindCursor.next (C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\node_modules\mongodb\lib\cursor\abstract_cursor.js:237:16)
+DELETE - /api/jobs/delete/66a533788f150934d18cc5e4 - ::ffff:127.0.0.1 - Thu Aug 01 2024 15:57:02 GMT+0530 (India Standard Time) - TypeError: Cannot read properties of null (reading 'userId')
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\routes\jobs\index.js:102:19
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+DELETE - /api/jobs/delete/66a78baeb0aa9b599c5e0f39 - ::ffff:127.0.0.1 - Thu Aug 01 2024 16:11:21 GMT+0530 (India Standard Time) - TypeError: Cannot read properties of undefined (reading 'toString')
+    at C:\Users\admin\Desktop\Practice\Ravi-switch\Cuveet\Jobportal\backend\routes\jobs\index.js:127:27
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
