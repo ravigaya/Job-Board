@@ -1,33 +1,46 @@
 import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
-import './index.css'; //
-import './App.css';
-import Registration from '../components/Registration';
 import {
   createBrowserRouter,
   RouterProvider,
+  Navigate,
 } from "react-router-dom";
+import Registration from '../components/Registration';
 import Login from '../components/Login';
+import Home from '../components/Home';
+import ApplyJob from '../components/Applyjob';
 
+//import  PrivateComponent  '../components/PrivateComponent'; // Import the PrivateRoute component
+import PrivateRoute from '../components/PrivateRoute';
 function App() {
-  const [count, setCount] = useState(0);
+
+  
   const router = createBrowserRouter([
     {
-      path: "/",
-      element: <div className="text-3xl font-bold underline">Hello world!</div>,
+      path: "/applyjob/:id",
+      element: <PrivateRoute element={<ApplyJob/>} />, // Correct usage
     },
+    {
+      path: "/",
+      element: <Home />,
+    },
+    
+    // {
+    //   path: "/applyjob/:id",
+    //   element: <ApplyJob/>,
+    // },
     {
       path: "/registration",
       element: <Registration />,
     },
     {
-     path:'/login',
-     element: <Login/>
-
-    }
+      path: "/login",
+      element: <Login />,
+    },
+    {
+      path: "*",
+      element: <Login />,
+    },
   ]);
-
   return (
     <RouterProvider router={router} />
   );

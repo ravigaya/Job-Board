@@ -1,20 +1,20 @@
 
-
-import React, { useState } from 'react';
+import React, { useState,useEffect } from 'react';
 import { Navigate, useNavigate } from "react-router-dom";
 import { Link } from 'react-router-dom';
 import axios from 'axios';
-import '../src/index.css';
+import './Login.css';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-
+import myImage from '../src/assets/login.jpg';
 const Login = () => {
   const [loginInfo, setLoginInfo] = useState({
     email: '',
     password: ''
   });
 
-    console.log(loginInfo,'loginInfo')
+
+  console.log(loginInfo,'loginInfo')
  
   const Navigate = useNavigate()
   
@@ -56,7 +56,7 @@ const Login = () => {
 
        setTimeout(()=>{
 
-        Navigate('/registration');
+        Navigate('/');
         
        },2000)
     } catch (error) {
@@ -89,8 +89,11 @@ const Login = () => {
   };
 
   return (
+    <>
     <div className='container'>
       <form onSubmit={handleSubmit}>
+      < img src={myImage} />
+
         <h2>Login</h2>
         <div>
           <label>Email</label>
@@ -103,8 +106,16 @@ const Login = () => {
         <button type='submit'>Submit</button>
       </form>
       <span>Don't have an account? <Link to='/registration'>Signup</Link></span>
-      <ToastContainer />
+      
     </div>
+      
+    <ToastContainer />
+
+    <div className='image_container'>
+
+    </div>
+    
+    </>
   );
 };
 
